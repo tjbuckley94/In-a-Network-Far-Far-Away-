@@ -154,7 +154,7 @@ Document the shortest path so that the Resistance can use it to develop a static
 1. Document the shortest OSPF path from Batuu to Jedha
 
 &emsp;&emsp;**OSPF path  
-&emsp;&emsp;batuu-D-C-E-F-J-I-L-Q-T-V-jedha 
+&emsp;&emsp;batuu-D-C-E-F-J-I-L-Q-T-V-jedha  
 &emsp;&emsp;OSPF path cost  
 &emsp;&emsp;23**  
 
